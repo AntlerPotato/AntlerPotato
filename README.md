@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML and Java
 - 🌱 I’m currently learning HTML5 and CSS3
 ~~- 💞️ I’m looking to collaborate on ...~~
-- 📫 You can contact me at my [email](1209798126hkj@gmail.com)
+- 📫 You can contact me at my [>email](1209798126hkj@gmail.com)
 ~~- 😄 Pronouns: ...~~
 ~~- ⚡ Fun fact: ...~~
 
