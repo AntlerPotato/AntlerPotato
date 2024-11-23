@@ -50,13 +50,14 @@
   </tr>  
 </table>  
 
+## 👨‍🎓 My Work
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antlerpotato&show_icons=true&locale=en" alt="antlerpotato" /></p> 
 -->
 
 <p>  
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antlerpotato&show_icons=true&locale=en&layout=compact" alt="antlerpotato" height="195" />  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antlerpotato&show_icons=true&locale=en&layout=compact" alt="antlerpotato" />  
 </p>  
 
 <p>  
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antlerpotato&" alt="antlerpotato" height="195" />  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antlerpotato&" alt="antlerpotato" />  
 </p>
