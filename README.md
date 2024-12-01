@@ -5,7 +5,7 @@
 * 🔭 I'm currently working on [VueBasedWaitlist](https://web-course-1-ten.vercel.app/)  
 * 🌱 I'm currently learning **Vue**  
 * 📝 I regularly write articles on [my blog](https://antler.ongridea.com/)  
-* 📫 How to reach me at **1209798126hkj@gmail.com**  
+* 📫 You can reach me at **1209798126hkj@gmail.com**  
 
 ## 🔗 Connect with me  
 <a href="https://twitter.com/antlerpotato">  
