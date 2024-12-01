@@ -7,9 +7,12 @@
 * 📝 I regularly write articles on [my blog](https://antler.ongridea.com/)  
 * 📫 You can reach me at **1209798126hkj@gmail.com**  
 
-## 🔗 Connect with me  
+## 🔗 Contact with me  
 <a href="https://twitter.com/antlerpotato">  
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="30" height="40" alt="Twitter"/>  
+</a>  
+<a href="https://discord.gg/rrewejMPSx">  
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="30" height="40" alt="Discord"/>  
 </a>  
 
 ## ⚙️ Tech Skills  
